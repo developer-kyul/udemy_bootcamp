@@ -23,5 +23,5 @@ alert("hi")
 //Prompt
 prompt("please enter a number")
 
-//IF statement
-
+//switch 
+//잘 사용하지 않음
